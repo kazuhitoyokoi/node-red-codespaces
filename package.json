@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node-red -D editorTheme.tours=false -D editorTheme.projects.enabled=true -D notify.message='This environment will be terminated within 10 minutes. Please download your flow immediately.' -D notify.timer=13800000"
+  },
+  "dependencies": {
+    "node-red": "*",
+    "node-red-contrib-plugin-notify": "*"
+  }
+}

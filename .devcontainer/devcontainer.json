@@ -1,0 +1,5 @@
+{
+  "postAttachCommand": {
+    "server": "npm start"
+  }
+}
