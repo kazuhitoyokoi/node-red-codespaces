@@ -1,7 +1,7 @@
 # Node-RED template for GitHub Codespaces
 
 This repository is the template to create the Node-RED environment on GitHub Codespases.
-Using the Codespases, you can temporality use the Node-RED flow editor for four hours .
+Using the Codespases, you can temporality use the Node-RED flow editor for four hours.
 This template will be useful to try Node-RED for hands-on events or personal use.
 The followings are step-by-step procedures about how to use this template.
 
