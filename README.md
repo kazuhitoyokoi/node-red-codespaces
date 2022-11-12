@@ -27,7 +27,7 @@ In the text input area, type the maximum value, 240 minutes.
 ## 3. Move to the GitHub Codespaces
 
 When accessing the Node-RED template repository, you can see the green button, "Use this template" in the top-right corner.
-After clicking th button, two options emerge to be able to select.
+After clicking the button, two options emerge to be able to select.
 Here, select "Open in a codespaces" to open the template repository on the Codespaces.
 
 <img width="350" border="1" src="open-codespaces.png">
