@@ -28,7 +28,7 @@ https://github.com/settings/codespaces#default-idle-timeout-header
 
 Node-REDテンプレートリポジトリにアクセスすると、右上隅に「Use this template」という緑色のボタンが表示されます。
 このボタンをクリックすると、選択可能な2つのオプションが表示されます。
-ここで「Open in a codespaces」を選択して、Codespacesでテンプレートリポジトリを開きます。
+ここで「Open in a codespace」を選択して、Codespacesでテンプレートリポジトリを開きます。
 
 <img width="350" border="1" src="open-codespaces.png">
 
