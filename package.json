@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "node-red": "*",
-    "node-red-contrib-plugin-notify": "*"
+    "node-red-contrib-plugin-notify": "*",
+    "@flowfuse/node-red-dashboard": "*"
   }
 }
