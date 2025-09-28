@@ -22,7 +22,7 @@ https://github.com/settings/codespaces#default-idle-timeout-header
 
 In the text input area, type the maximum value, 240 minutes.
 
-<kbd><img width="640" src="default-idle-timeout.png"></kbd>
+<kbd><img width="640" src="images/default-idle-timeout.png"></kbd>
 
 ## 3. Move to the GitHub Codespaces
 
@@ -30,19 +30,19 @@ When accessing the Node-RED template repository, you can see the green button, "
 After clicking the button, two options emerge to be able to select.
 Here, select "Open in a codespace" to open the template repository on the Codespaces.
 
-<img width="350" border="1" src="open-codespaces.png">
+<img width="350" border="1" src="images/open-codespaces.png">
 
 ## 4. Open Node-RED flow editor
 
 After about one minute, this environment will automatically download Node-RED and then start up.
 When the Node-RED flow editor is ready to use, the dialog will be pop-up in the bottom-right corner.
 
-<img width="500" src="open-in-browser.png">
+<img width="500" src="images/open-in-browser.png">
 
 After clicking the green button, "Open in browser", another tab on your browser will be opened for the Node-RED flow editor.
 At the first, the dialog for the project feature will be opened in this environment.
 To skip the project configuration, click the "Not right now" button in the bottom-right corner.
 
-<img width="900" border="1" src="flow-editor.png">
+<img width="900" border="1" src="images/flow-editor.png">
 
 Now, you can start to develop great flows in the Node-RED flow editor.
