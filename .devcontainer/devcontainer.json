@@ -1,5 +1,6 @@
 {
   "postAttachCommand": {
-    "server": "npm start"
+    "server": "npm start",
+    "ollama": "time bash -i -x scripts/ollama.sh"
   }
 }
