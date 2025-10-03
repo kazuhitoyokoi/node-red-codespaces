@@ -5,6 +5,8 @@
   "dependencies": {
     "node-red": "*",
     "node-red-contrib-plugin-notify": "*",
+    "node-red-debugger": "*",
+    "nrlint": "*",
     "@flowfuse/node-red-dashboard": "*",
     "@flowfuse/node-red-dashboard-2-ui-chat": "*"
   }
