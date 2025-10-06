@@ -41,7 +41,6 @@ When the Node-RED flow editor is ready to use, the dialog will be pop-up in the 
 
 After clicking the green button, "Open in browser", another tab on your browser will be opened for the Node-RED flow editor.
 At the first, the dialog for the project feature will be opened in this environment.
-To skip the project configuration, click the "Not right now" button in the bottom-right corner.
 
 <img width="900" border="1" src="images/flow-editor.png">
 
